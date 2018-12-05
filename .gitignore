@@ -1,0 +1,6 @@
+#exclude
+*.docx
+*.zip
+/Assignments
+/Lecture Notes
+/Exam
